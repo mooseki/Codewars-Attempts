@@ -11,7 +11,7 @@ function pigIt(str){
     
   //   console.log(str);
     
-   let strArr = str.split(" ");
+   let strArr = str.split(" "); 
     
     let newStr = " ";
     
