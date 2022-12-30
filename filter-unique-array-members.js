@@ -53,7 +53,7 @@ function unique(arr) {
   return result;
 }
 
-let strings = [
+let strings1 = [
   "Hare",
   "Krishna",
   "Hare",
@@ -65,7 +65,7 @@ let strings = [
   ":-O",
 ];
 
-alert(unique(strings)); // Hare, Krishna, :-O
+alert(unique(strings1)); // Hare, Krishna, :-O
 
 // The code works, but there’s a potential performance problem in it.
 
